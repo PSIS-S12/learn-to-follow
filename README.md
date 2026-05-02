@@ -36,7 +36,13 @@ wget https://github.com/microsoft/onnxruntime/releases/download/v1.14.1/onnxrunt
 
 Optionally, you could use the Dockerfile to build the image:
 ```bash
-cd docker && sh build.sh
+cd "/path/to/learn-to-follow"
+docker build -t learn-to-follow -f docker/dockerfile .
+```
+
+To start the container, use the following command:
+```bash
+docker run --rm -it learn-to-follow:latest bash
 ```
 
 ## Inference Example:
