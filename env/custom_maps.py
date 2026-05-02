@@ -2,7 +2,7 @@ from pathlib import Path
 
 import yaml
 
-map_files = ["training-maps", "test-maps"]
+map_files = ["training-maps", "test-maps", "psis-experiment-maps"]
 
 maps = {}
 for file_name in map_files:
