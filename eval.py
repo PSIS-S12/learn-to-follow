@@ -1,16 +1,14 @@
-from pogema_toolbox.create_env import create_env_base, Environment
+from pathlib import Path
+
 from pogema_toolbox.evaluator import evaluation
 from pogema import BatchAStarAgent
-
 from pogema_toolbox.eval_utils import initialize_wandb, save_evaluation_results
-
-from pathlib import Path
 import wandb
-
 import yaml
-
 from pogema_toolbox.registry import ToolboxRegistry
 
+from env.create_env import create_env_base
+from follower.training_config import Environment
 from follower.inference import FollowerInference, FollowerInferenceConfig
 from follower.preprocessing import follower_preprocessor
 from follower_cpp.inference import FollowerConfigCPP, FollowerInferenceCPP
@@ -21,6 +19,7 @@ BASE_PATH = Path('experiments')
 
 
 def main(disable_wandb=False):
+    ToolboxRegistry.setup_logger(level='INFO')
     ToolboxRegistry.register_env('Pogema-v0', create_env_base, Environment)
     ToolboxRegistry.register_algorithm('A*', BatchAStarAgent)
     ToolboxRegistry.register_algorithm('Follower', FollowerInference, FollowerInferenceConfig,
@@ -30,14 +29,20 @@ def main(disable_wandb=False):
 
     with open("env/test-maps.yaml", 'r') as f:
         maps_to_register = yaml.safe_load(f)
+
+    with open("env/psis-experiment-maps.yaml", 'r') as f:
+        experiment_maps = yaml.safe_load(f)
+        maps_to_register.update(experiment_maps)
+
     ToolboxRegistry.register_maps(maps_to_register)
 
     folder_names = [
-        '01-random-20x20',
-        '02-mazes',
-        '03-den520d',
-        '04-Paris_1',
-        '05-warehouse',
+        # '01-random-20x20',
+        # '02-mazes',
+        # '03-den520d',
+        # '04-Paris_1',
+        # '05-warehouse',
+        '06-psis'
     ]
 
     for folder in folder_names:
@@ -46,6 +51,7 @@ def main(disable_wandb=False):
 
         with open(config_path) as f:
             evaluation_config = yaml.safe_load(f)
+
         if folder == 'eval-fast':
             disable_wandb = True
 
@@ -56,4 +62,4 @@ def main(disable_wandb=False):
 
 
 if __name__ == '__main__':
-    main()
+    main(disable_wandb=True)
