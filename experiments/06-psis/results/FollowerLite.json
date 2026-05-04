@@ -1,0 +1,1802 @@
+[
+  {
+    "metrics": {
+      "throughput": 0.4324,
+      "success_rate": 1.0,
+      "num_collisions": 14,
+      "makespan": 148,
+      "planner_time": 0.001889,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 56.390625,
+      "runtime": 1.0864712869997675
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 0
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.1803,
+      "success_rate": 1.0,
+      "num_collisions": 25,
+      "makespan": 355,
+      "planner_time": 0.003281,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 80.140625,
+      "runtime": 3.058877547998236
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 1
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.237,
+      "success_rate": 1.0,
+      "num_collisions": 22,
+      "makespan": 270,
+      "planner_time": 0.003094,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 79.09375,
+      "runtime": 2.4019279839803858
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 2
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.123,
+      "success_rate": 0.9844,
+      "num_collisions": 27,
+      "makespan": 512,
+      "planner_time": 0.003297,
+      "ISR": 0.984375,
+      "CSR": 0.0,
+      "ep_length": 94.078125,
+      "runtime": 4.224071929996171
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 3
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4848,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 132,
+      "planner_time": 0.003333,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 65.4375,
+      "runtime": 1.6025131210071777
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 4
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 160,
+      "planner_time": 0.003102,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 57.078125,
+      "runtime": 1.7756040779922841
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 5
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5289,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 121,
+      "planner_time": 0.003505,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 49.34375,
+      "runtime": 1.830850268001086
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 6
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4539,
+      "success_rate": 1.0,
+      "num_collisions": 12,
+      "makespan": 141,
+      "planner_time": 0.003129,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 56.25,
+      "runtime": 1.5642372500042256
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 7
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.6095,
+      "success_rate": 1.0,
+      "num_collisions": 4,
+      "makespan": 105,
+      "planner_time": 0.003271,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 45.703125,
+      "runtime": 1.3174914580049517
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 8
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4923,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 130,
+      "planner_time": 0.00364,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 59.859375,
+      "runtime": 1.7108190569988437
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 9
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4156,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 154,
+      "planner_time": 0.00305,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 54.796875,
+      "runtime": 1.6243637480083635
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 10
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3855,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 166,
+      "planner_time": 0.002786,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 60.515625,
+      "runtime": 1.8547006590060846
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 11
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4706,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 136,
+      "planner_time": 0.002878,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 62.578125,
+      "runtime": 1.6341293890054658
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 12
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3855,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 166,
+      "planner_time": 0.002944,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 54.234375,
+      "runtime": 1.6484339929984344
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 13
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3497,
+      "success_rate": 1.0,
+      "num_collisions": 10,
+      "makespan": 183,
+      "planner_time": 0.003292,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 65.671875,
+      "runtime": 2.176285248999193
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 14
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3855,
+      "success_rate": 1.0,
+      "num_collisions": 19,
+      "makespan": 166,
+      "planner_time": 0.003396,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 78.59375,
+      "runtime": 2.099230728999828
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 15
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4604,
+      "success_rate": 1.0,
+      "num_collisions": 4,
+      "makespan": 139,
+      "planner_time": 0.002659,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 62.625,
+      "runtime": 1.3358296740061633
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 16
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.1509,
+      "success_rate": 1.0,
+      "num_collisions": 16,
+      "makespan": 424,
+      "planner_time": 0.002394,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 92.5,
+      "runtime": 2.6079205630203433
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 17
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5517,
+      "success_rate": 1.0,
+      "num_collisions": 8,
+      "makespan": 116,
+      "planner_time": 0.002676,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 51.328125,
+      "runtime": 1.1865800320065318
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 18
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4961,
+      "success_rate": 1.0,
+      "num_collisions": 3,
+      "makespan": 129,
+      "planner_time": 0.003123,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 56.203125,
+      "runtime": 1.4759262969964766
+    },
+    "env_grid_search": {
+      "num_agents": 8,
+      "seed": 19
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4444,
+      "success_rate": 1.0,
+      "num_collisions": 4,
+      "makespan": 144,
+      "planner_time": 0.003032,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 49.140625,
+      "runtime": 1.6278657250013566
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 0
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.6465,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 99,
+      "planner_time": 0.002894,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 50.671875,
+      "runtime": 1.1754591010003423
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 1
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4776,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 134,
+      "planner_time": 0.003085,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 50.90625,
+      "runtime": 1.4995861679981317
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 2
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5424,
+      "success_rate": 1.0,
+      "num_collisions": 3,
+      "makespan": 118,
+      "planner_time": 0.003208,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 50.71875,
+      "runtime": 1.625744076999581
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 3
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.6275,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 102,
+      "planner_time": 0.003448,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 52.578125,
+      "runtime": 1.4912773390024086
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 4
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2261,
+      "success_rate": 1.0,
+      "num_collisions": 10,
+      "makespan": 283,
+      "planner_time": 0.003147,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 94.015625,
+      "runtime": 2.4038107499936814
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 5
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4812,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 133,
+      "planner_time": 0.003304,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 63.78125,
+      "runtime": 1.6465084539931922
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 6
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.32,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 200,
+      "planner_time": 0.003423,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 73.828125,
+      "runtime": 2.090250467995247
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 7
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.1793,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 357,
+      "planner_time": 0.00281,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 65.375,
+      "runtime": 2.8013803970006848
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 8
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5161,
+      "success_rate": 1.0,
+      "num_collisions": 16,
+      "makespan": 124,
+      "planner_time": 0.002897,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 53.71875,
+      "runtime": 1.35826294499293
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 9
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5289,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 121,
+      "planner_time": 0.00304,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 54.1875,
+      "runtime": 1.5391275739993944
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 10
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.512,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 125,
+      "planner_time": 0.003246,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 54.703125,
+      "runtime": 1.5677406330005397
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 11
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4,
+      "success_rate": 1.0,
+      "num_collisions": 14,
+      "makespan": 160,
+      "planner_time": 0.00294,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 72.640625,
+      "runtime": 1.6170813379931133
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 12
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.255,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 251,
+      "planner_time": 0.002774,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 66.921875,
+      "runtime": 2.1614309860051435
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 13
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5,
+      "success_rate": 1.0,
+      "num_collisions": 4,
+      "makespan": 128,
+      "planner_time": 0.002967,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 59.71875,
+      "runtime": 1.4466942489998473
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 14
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2344,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 273,
+      "planner_time": 0.003035,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 83.21875,
+      "runtime": 2.4321700070076986
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 15
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.287,
+      "success_rate": 1.0,
+      "num_collisions": 27,
+      "makespan": 223,
+      "planner_time": 0.003111,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 79.0,
+      "runtime": 2.02621122500841
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 16
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4848,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 132,
+      "planner_time": 0.003207,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 55.875,
+      "runtime": 1.5174760490008339
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 17
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3459,
+      "success_rate": 1.0,
+      "num_collisions": 14,
+      "makespan": 185,
+      "planner_time": 0.003022,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 65.984375,
+      "runtime": 1.7407687880022422
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 18
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3616,
+      "success_rate": 1.0,
+      "num_collisions": 19,
+      "makespan": 177,
+      "planner_time": 0.003124,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 76.875,
+      "runtime": 1.7285779059966444
+    },
+    "env_grid_search": {
+      "num_agents": 16,
+      "seed": 19
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5872,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 109,
+      "planner_time": 0.003093,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 49.765625,
+      "runtime": 1.4121793540007275
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 0
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4211,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 152,
+      "planner_time": 0.002936,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 51.96875,
+      "runtime": 1.7613308739955755
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 1
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4414,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 145,
+      "planner_time": 0.003123,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 62.15625,
+      "runtime": 1.6541548800068995
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 2
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2025,
+      "success_rate": 1.0,
+      "num_collisions": 19,
+      "makespan": 316,
+      "planner_time": 0.002907,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 76.046875,
+      "runtime": 2.524101779013108
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 3
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4354,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 147,
+      "planner_time": 0.003103,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 55.90625,
+      "runtime": 1.6721316049925008
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 4
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4812,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 133,
+      "planner_time": 0.003,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 51.015625,
+      "runtime": 1.60466684599578
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 5
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2025,
+      "success_rate": 1.0,
+      "num_collisions": 13,
+      "makespan": 316,
+      "planner_time": 0.002875,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 71.75,
+      "runtime": 2.5433407410037034
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 6
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4961,
+      "success_rate": 1.0,
+      "num_collisions": 16,
+      "makespan": 129,
+      "planner_time": 0.003262,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 57.15625,
+      "runtime": 1.4844246459942951
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 7
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4129,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 155,
+      "planner_time": 0.003036,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 61.8125,
+      "runtime": 1.6689444599996932
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 8
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4812,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 133,
+      "planner_time": 0.003065,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 58.6875,
+      "runtime": 1.5825714229995356
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 9
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5926,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 108,
+      "planner_time": 0.003318,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 54.21875,
+      "runtime": 1.4568097270075668
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 10
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3005,
+      "success_rate": 1.0,
+      "num_collisions": 8,
+      "makespan": 213,
+      "planner_time": 0.002854,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 67.984375,
+      "runtime": 1.831010605001211
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 11
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3765,
+      "success_rate": 1.0,
+      "num_collisions": 13,
+      "makespan": 170,
+      "planner_time": 0.002968,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 71.359375,
+      "runtime": 1.6767316610021226
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 12
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4885,
+      "success_rate": 1.0,
+      "num_collisions": 4,
+      "makespan": 131,
+      "planner_time": 0.003169,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 46.84375,
+      "runtime": 1.4890249530044457
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 13
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4776,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 134,
+      "planner_time": 0.00315,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 46.3125,
+      "runtime": 1.5491115849927155
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 14
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3951,
+      "success_rate": 1.0,
+      "num_collisions": 15,
+      "makespan": 162,
+      "planner_time": 0.002993,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 56.984375,
+      "runtime": 1.6152879169958396
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 15
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3975,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 161,
+      "planner_time": 0.002962,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 56.90625,
+      "runtime": 1.590278501004832
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 16
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4848,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 132,
+      "planner_time": 0.00321,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 60.8125,
+      "runtime": 1.5034427189948474
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 17
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4295,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 149,
+      "planner_time": 0.003186,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 58.140625,
+      "runtime": 1.680585025002074
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 18
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3902,
+      "success_rate": 1.0,
+      "num_collisions": 12,
+      "makespan": 164,
+      "planner_time": 0.003173,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 75.34375,
+      "runtime": 1.6377919240012488
+    },
+    "env_grid_search": {
+      "num_agents": 32,
+      "seed": 19
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2922,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 219,
+      "planner_time": 0.002986,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 53.9375,
+      "runtime": 1.8310129180044896
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 0
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3497,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 183,
+      "planner_time": 0.002901,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 68.828125,
+      "runtime": 1.706027463997998
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 1
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5872,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 109,
+      "planner_time": 0.00316,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 53.078125,
+      "runtime": 1.2034155439987444
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 2
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5,
+      "success_rate": 1.0,
+      "num_collisions": 12,
+      "makespan": 128,
+      "planner_time": 0.003203,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 61.53125,
+      "runtime": 1.401484280007935
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 3
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4211,
+      "success_rate": 1.0,
+      "num_collisions": 15,
+      "makespan": 152,
+      "planner_time": 0.002984,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 72.03125,
+      "runtime": 1.457023787003891
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 4
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4384,
+      "success_rate": 1.0,
+      "num_collisions": 8,
+      "makespan": 146,
+      "planner_time": 0.003091,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 58.8125,
+      "runtime": 1.5097780269989016
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 5
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3975,
+      "success_rate": 1.0,
+      "num_collisions": 12,
+      "makespan": 161,
+      "planner_time": 0.002979,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 58.109375,
+      "runtime": 1.7289255240002603
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 6
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4672,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 137,
+      "planner_time": 0.003204,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 62.578125,
+      "runtime": 1.4512465649995647
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 7
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.6275,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 102,
+      "planner_time": 0.002774,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 48.171875,
+      "runtime": 1.3070319120015483
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 8
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2689,
+      "success_rate": 1.0,
+      "num_collisions": 14,
+      "makespan": 238,
+      "planner_time": 0.00286,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 72.953125,
+      "runtime": 2.0816746599994076
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 9
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5714,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 112,
+      "planner_time": 0.003055,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 64.359375,
+      "runtime": 1.4177844500018182
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 10
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4672,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 137,
+      "planner_time": 0.002832,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 56.890625,
+      "runtime": 1.5151246479981637
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 11
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3556,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 180,
+      "planner_time": 0.002963,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 59.859375,
+      "runtime": 1.858276219995787
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 12
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3404,
+      "success_rate": 1.0,
+      "num_collisions": 17,
+      "makespan": 188,
+      "planner_time": 0.002993,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 70.8125,
+      "runtime": 1.75373421299264
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 13
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3787,
+      "success_rate": 1.0,
+      "num_collisions": 10,
+      "makespan": 169,
+      "planner_time": 0.00297,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 63.421875,
+      "runtime": 1.690638371010209
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 14
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5039,
+      "success_rate": 1.0,
+      "num_collisions": 8,
+      "makespan": 127,
+      "planner_time": 0.002846,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 51.375,
+      "runtime": 1.5230435540015606
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 15
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4267,
+      "success_rate": 1.0,
+      "num_collisions": 10,
+      "makespan": 150,
+      "planner_time": 0.002928,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 60.328125,
+      "runtime": 1.5717148299954715
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 16
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4051,
+      "success_rate": 1.0,
+      "num_collisions": 6,
+      "makespan": 158,
+      "planner_time": 0.002898,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 63.625,
+      "runtime": 1.6629134509976211
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 17
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3497,
+      "success_rate": 1.0,
+      "num_collisions": 18,
+      "makespan": 183,
+      "planner_time": 0.003164,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 65.3125,
+      "runtime": 1.7141343469993444
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 18
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.27,
+      "success_rate": 1.0,
+      "num_collisions": 10,
+      "makespan": 237,
+      "planner_time": 0.003094,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 74.234375,
+      "runtime": 2.060323348997372
+    },
+    "env_grid_search": {
+      "num_agents": 64,
+      "seed": 19
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3478,
+      "success_rate": 1.0,
+      "num_collisions": 15,
+      "makespan": 184,
+      "planner_time": 0.003123,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 61.359375,
+      "runtime": 1.803160749993367
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 0
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4051,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 158,
+      "planner_time": 0.003291,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 60.6875,
+      "runtime": 1.7341091920025065
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 1
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5378,
+      "success_rate": 1.0,
+      "num_collisions": 8,
+      "makespan": 119,
+      "planner_time": 0.00327,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 53.734375,
+      "runtime": 1.3737785519988392
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 2
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.381,
+      "success_rate": 1.0,
+      "num_collisions": 5,
+      "makespan": 168,
+      "planner_time": 0.003235,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 66.953125,
+      "runtime": 1.7358586270011074
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 3
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5,
+      "success_rate": 1.0,
+      "num_collisions": 4,
+      "makespan": 128,
+      "planner_time": 0.003164,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 53.953125,
+      "runtime": 1.476670942997771
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 4
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.257,
+      "success_rate": 1.0,
+      "num_collisions": 18,
+      "makespan": 249,
+      "planner_time": 0.003145,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 67.40625,
+      "runtime": 1.965434836998611
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 5
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4672,
+      "success_rate": 1.0,
+      "num_collisions": 18,
+      "makespan": 137,
+      "planner_time": 0.003175,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 63.578125,
+      "runtime": 1.4150600000075428
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 6
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4604,
+      "success_rate": 1.0,
+      "num_collisions": 12,
+      "makespan": 139,
+      "planner_time": 0.002766,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 55.0625,
+      "runtime": 1.4804338990006727
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 7
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5424,
+      "success_rate": 1.0,
+      "num_collisions": 3,
+      "makespan": 118,
+      "planner_time": 0.003381,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 52.125,
+      "runtime": 1.3984264120035732
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 8
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.4103,
+      "success_rate": 1.0,
+      "num_collisions": 9,
+      "makespan": 156,
+      "planner_time": 0.00301,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 66.9375,
+      "runtime": 1.6873004280032546
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 9
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3265,
+      "success_rate": 1.0,
+      "num_collisions": 23,
+      "makespan": 196,
+      "planner_time": 0.002903,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 64.453125,
+      "runtime": 1.8043894809979975
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 10
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.2353,
+      "success_rate": 1.0,
+      "num_collisions": 12,
+      "makespan": 272,
+      "planner_time": 0.002915,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 77.734375,
+      "runtime": 2.2374504900062675
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 11
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5664,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 113,
+      "planner_time": 0.003268,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 54.796875,
+      "runtime": 1.5458056420056892
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 12
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5203,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 123,
+      "planner_time": 0.003175,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 50.84375,
+      "runtime": 1.5340545140024915
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 13
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3556,
+      "success_rate": 1.0,
+      "num_collisions": 16,
+      "makespan": 180,
+      "planner_time": 0.003178,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 78.171875,
+      "runtime": 1.8024380249971728
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 14
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 128,
+      "planner_time": 0.00328,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 59.46875,
+      "runtime": 1.5187711579992538
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 15
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3721,
+      "success_rate": 1.0,
+      "num_collisions": 11,
+      "makespan": 172,
+      "planner_time": 0.003005,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 66.578125,
+      "runtime": 1.6378618650078351
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 16
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.5,
+      "success_rate": 1.0,
+      "num_collisions": 7,
+      "makespan": 128,
+      "planner_time": 0.003344,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 52.515625,
+      "runtime": 1.6300187239967272
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 17
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3536,
+      "success_rate": 1.0,
+      "num_collisions": 10,
+      "makespan": 181,
+      "planner_time": 0.003166,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 73.3125,
+      "runtime": 1.6862965530062866
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 18
+    },
+    "algorithm": "FollowerLite"
+  },
+  {
+    "metrics": {
+      "throughput": 0.3575,
+      "success_rate": 1.0,
+      "num_collisions": 14,
+      "makespan": 179,
+      "planner_time": 0.003286,
+      "ISR": 1.0,
+      "CSR": 1.0,
+      "ep_length": 69.890625,
+      "runtime": 1.7222201160020632
+    },
+    "env_grid_search": {
+      "num_agents": 128,
+      "seed": 19
+    },
+    "algorithm": "FollowerLite"
+  }
+]
