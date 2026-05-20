@@ -4,7 +4,7 @@ environment:
   on_target: restart
   max_episode_steps: 256
   collision_system: soft
-  map_name: psis_experiment_map_1
+  map_name: psis_experiment_map_160
   num_agents:
     grid_search: [ 8, 16, 32, 64, 128 ]
   seed:
